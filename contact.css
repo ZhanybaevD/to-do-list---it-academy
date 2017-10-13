@@ -1,0 +1,34 @@
+/*#cnt {
+width:100px;
+height:50px;
+}
+
+#about{
+	width: 100px;
+	height: 50px;
+	margin-bottom:100px;
+	margin-left: 100px;
+}*/
+
+.vkl{
+    float:left;
+    width:140px;
+    height:28px;
+    background:#000000;
+    color:red;
+    font-size:20px;
+    border-right:1px solid white;
+    padding-left:10px;
+}
+#content{
+    width:603px;
+    height:200px;
+    background:blue;
+}
+.selected{
+   background:black;
+}
+
+.select{
+	background:black;
+}
